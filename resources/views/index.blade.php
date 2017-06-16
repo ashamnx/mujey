@@ -7,6 +7,7 @@
     <title>Laravel Angular Material Starter</title>
 
     <meta name="theme-color" content="#0690B7">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <link rel="manifest" href="manifest.json">
 

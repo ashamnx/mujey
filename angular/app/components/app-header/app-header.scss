@@ -32,10 +32,8 @@ md-toolbar:not(.md-hue-1),
 }
 md-sidenav {
   fill: #737373;
-  ng-md-icon {
-    position: relative;
-    top: 5px; // adjust for svg viewbox
-  }
+  height: 100vh;
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
 }
 .user-avatar {
   border-radius: 99%;
